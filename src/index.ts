@@ -80,3 +80,4 @@ class PrettyDate extends HTMLElement {
 
 // Define the new element
 customElements.define("pretty-date", PrettyDate);
+export default PrettyDate;
