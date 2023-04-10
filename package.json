@@ -1,0 +1,23 @@
+{
+  "name": "pretty-date",
+  "version": "0.0.1",
+  "description": "A custom element to insert pretty formatted dates",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "custom-element",
+    "dates",
+    "html"
+  ],
+  "author": "Sten Hougaard",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
